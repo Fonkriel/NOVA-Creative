@@ -1,10 +1,4 @@
 
-  <meta name="description" content="NOVA Creative Agency: agencia de publicidad especializada en campañas creativas e integrales que conectan con el público y generan resultados medibles.">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23033356'/%3E%3Cpath d='M50 14l10.5 25.5L88 42l-21 18 6.5 27L50 72.5 26.5 87 33 60 12 42l27.5-2.5z' fill='%23fafafa'/%3E%3C/svg%3E">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500&display=swap" rel="stylesheet">
-  <style>
     :root {
       --azul: #033356;
       --morado: #602f94;
